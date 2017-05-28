@@ -1,6 +1,6 @@
 {
   "name": "react-redux-todo",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "private": true,
   "dependencies": {
     "prop-types": "^15.5.10",
